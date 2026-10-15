@@ -1,0 +1,5 @@
+.venv/
+.env
+*.db
+.last_thread
+__pycache__/

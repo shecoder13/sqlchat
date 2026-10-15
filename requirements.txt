@@ -1,0 +1,5 @@
+langchain
+langchain-anthropic
+langgraph
+langgraph-checkpoint-sqlite
+python-dotenv
